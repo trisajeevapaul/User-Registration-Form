@@ -1,0 +1,35 @@
+A simple and responsive User Registration Form built using React.js.
+designed to collect basic user information like first name, last name, email, and password.
+This project demonstrates how to manage form data 
+using React hooks, handle form submissions, and display a success message upon completion.
+
+Technologies Used
+React.js (Functional Components)
+
+JavaScript (ES6+)
+
+React Hooks – useState
+
+HTML5 Form Validation
+
+Inline CSS Styling
+
+Future Enhancements
+Add custom validation (email format, password strength)
+
+Style with CSS framework (Bootstrap or Tailwind CSS)
+
+Connect to backend API to store submitted data
+
+♻Modularize inputs into reusable components
+
+Display validation error messages
+
+
+
+
+
+
+
+
+
